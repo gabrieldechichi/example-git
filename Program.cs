@@ -12,7 +12,7 @@ namespace GitExample
 
         static void GitExample2Function()
         {
-            Console.WriteLine("GitExample2Function");
+            Console.WriteLine("GitExample2Function2");
         }
     }
 }
