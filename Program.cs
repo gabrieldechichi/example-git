@@ -6,8 +6,10 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Outra mensagem");
+            Console.WriteLine("Escreva sua mensagem: ");
+            string input = Console.ReadLine();
+            Console.WriteLine($"Sua mensagem {input}");
+            Console.ReadKey()
         }
     }
 }
