@@ -14,5 +14,11 @@ namespace GitExample
         {
             Console.WriteLine("GitExample2Function2");
         }
+
+        static void GitExample1Function()
+        {
+            Console.WriteLine("GitExample1Function");
+        }
+
     }
 }
