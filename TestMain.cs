@@ -6,7 +6,8 @@ namespace GitExample
     {
         public void Test()
         {
-            Console.WriteLine("Test!");
+            string input = Console.ReadLine();
+            Console.WriteLine(input);
         }
     }
 }
