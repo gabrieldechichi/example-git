@@ -7,6 +7,7 @@ namespace GitExample
         public void Test()
         {
             Console.WriteLine("Test!");
+            Console.WriteLine("Linha adicionada na main!");
         }
 
         public void Test2()
