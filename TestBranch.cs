@@ -8,5 +8,10 @@ namespace GitExample
         {
             Console.WriteLine("Test!");
         }
+
+        public void Test2()
+        {
+            Console.WriteLine("Test2");
+        }
     }
 }
