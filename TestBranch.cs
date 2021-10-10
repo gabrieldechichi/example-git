@@ -13,5 +13,10 @@ namespace GitExample
         {
             Console.WriteLine("Test2");
         }
+
+        public void Test3()
+        {
+            Console.WriteLine("Test3");
+        }
     }
 }
