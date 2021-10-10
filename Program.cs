@@ -9,21 +9,5 @@ namespace GitExample
             //Console.WriteLine("Hello World!");
             Console.WriteLine("Outra mensagem");
         }
-
-        static void GitExample2Function()
-        {
-            Console.WriteLine("GitExample2Function2");
-        }
-
-        static void GitExample1Function()
-        {
-            Console.WriteLine("GitExample1Function");
-        }
-
-        static void GitExample3Function()
-        {	
-            Console.WriteLine("GitExample3Function");
-        }
-
     }
 }
